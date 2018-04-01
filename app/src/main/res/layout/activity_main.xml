@@ -22,16 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="隐式启动2" />
-    <EditText
-        android:id="@+id/ed"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:inputType="number"/>
-    <Button
-        android:id="@+id/button5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="隐式启动2" />
+
 
 </LinearLayout>
 
